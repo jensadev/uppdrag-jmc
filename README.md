@@ -35,6 +35,18 @@ visar att du kan använda sass eller liknande(gör det enkelt och skriv scss).
 Vill du utöka detta så kan du efter att frontend delen är klar skapa ett node projekt
 där sidan hostas och det till exempel finns CRUD funktion för nyhetsflöde. 
 
+### Om du vill köra pug / sass
+
+Då finns det en package.json för dig. Kör npm install (du kan eventuellt behöva installera med -g).
+Sedan har du två scripts att starta.
+
+```
+npm run build-pug
+npm run build-sass
+```
+
+Scriptsen watchar src mapparna och skapar nya filer i docs mappen när du sparar ändringar.
+
 ## Dokumentation
 
 I ditt arbete så får du gärna föra [anteckningar](dokumentation/anteckningar.md).
