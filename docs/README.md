@@ -16,6 +16,8 @@ Allt material för uppgiften hittar du här nedan. Text kopierar du från Figma.
 * [Bild på tanten](https://unsplash.com/photos/eY1_nQs9aNI)
 * [Choklad](https://unsplash.com/photos/tppi1oZAdZI)
 
+För att ta bort bakgrunden på bilderna använde jag ett onlineverktyg, [remove.bg](https://www.remove.bg/).
+
 Om du har synpunkter på designen eller förbättringar så är det okej att använda dessa.
 Tänk på att det ska passa uppdraget dock och att du då bör motivera dina ändringar
 i dina anteckningar/postmortem.
