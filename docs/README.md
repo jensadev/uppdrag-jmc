@@ -1,7 +1,7 @@
 # Frontend uppdrag
 
 Du har fått i uppdrag att skapa en webbplats utifrån en existerande design.
-Innehå¨llet ska vara anpassat efter enhet.
+Innehållet ska vara anpassat efter enhet.
 
 Sidan kan skapas med valfri teknik och ramverk, på så sätt kan dess funktion
 även utökas.
@@ -29,6 +29,9 @@ Du kan till exempel använda pug, bootstrap och sass. Här kan såklart pug ers�
 en annan templatteknik eller bara html. Bootstrap kan vara css eller ett annat 
 ramverk. Sass kan ersättas av css eller annan teknik, men det är viktigt att du
 visar att du kan använda sass eller liknande(gör det enkelt och skriv scss).
+
+Vill du utöka detta så kan du efter att frontend delen är klar skapa ett node projekt
+där sidan hostas och det till exempel finns CRUD funktion för nyhetsflöde. 
 
 ## Dokumentation
 
