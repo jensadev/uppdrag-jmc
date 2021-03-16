@@ -40,7 +40,7 @@ där sidan hostas och det till exempel finns CRUD funktion för nyhetsflöde.
 I ditt arbete så får du gärna föra [anteckningar](dokumentation/anteckningar.md).
 I dokumentet [checklista](dokumentation/checklista.md) så ska du anteckna hur du
 validerat, optimerat och testat ditt resultat.
-En utgångspunkt kan vara krusbokens [checklista](https://jens-andreasson.gitbook.io/webbutveckling/tester/checklista-foer-webbsidor).
+En utgångspunkt kan vara kursbokens [checklista](https://jens-andreasson.gitbook.io/webbutveckling/tester/checklista-foer-webbsidor).
 
 När projektet är slutfört så skriver du en kort [post mortem](dokumentation/postmortem.md) 
 där du beskriver dina lärdomar.
