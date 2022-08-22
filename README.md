@@ -18,14 +18,15 @@ Allt material för uppgiften hittar du här nedan. Text kopierar du från Figma.
 
 För att ta bort bakgrunden på bilderna använde jag ett onlineverktyg, [remove.bg](https://www.remove.bg/).
 
+Kom ihåg att optimera bilderna för webbplatsen.
+
 Om du har synpunkter på designen eller förbättringar så är det okej att använda dessa.
 Tänk på att det ska passa uppdraget dock och att du då bör motivera dina ändringar
 i dina anteckningar/postmortem.
 
 ## Teknik
 
-Det är tämligen fritt att välja teknik för detta projekt, så länge det är anpassat
-till den tid vi har.
+Det är tämligen fritt att välja teknik för detta projekt, men det finns inget krav att du använder dig av något annat än html och css.
 
 ## Dokumentation
 
